@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+<h1 align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&color=BD93F9&center=true&lines=Hey+there!+%F0%9F%91%8B;I%E2%80%99m+Artyom.;Welcome+to+my+profile!"> 
+</h1>
 
 <h4 align="center">
   
@@ -32,9 +32,6 @@
 
 </h4> 
 
-
-
-
 <!--
 <h4 align="center">
   
@@ -61,10 +58,5 @@
 
 </h4>
 -->
-
-
-
-
-
 
 <p align='center'>For enquiries, reach out <a href="https://t.me/lizzrd_wizard">@lizzrd_wizard</a> on Telegram.</p>
