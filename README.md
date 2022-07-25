@@ -32,31 +32,8 @@
 
 </h4> 
 
-<!--
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       *      -0-                                          @@
-@@          .                .  *       - )-                 @@
-@@       .      *       o       .       *                    @@
-@@ o                |                                        @@
-@@           .     -O-                                       @@
-@@.                 |        *      .     -0-                @@
-@@       *  o     .    '       *      .        o             @@
-@@              .         .        |      *                  @@
-@@   *             *              -O-          .             @@
-@@         .             *         |     ,                   @@
-@@                .           o                              @@
-@@        .---.                                              @@
-@@  =   _/__~0_\_     .  *            o       '              @@
-@@ = = (_________)             .                             @@
-@@                 .                        *                @@
-@@       *               - ) -       *                       @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>
--->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109903640/180773328-f1c23264-8e1c-4daf-9f34-8bb39a588528.gif"> 
+</p>
 
 <p align='center'>For enquiries, reach out <a href="https://t.me/lizzrd_wizard">@lizzrd_wizard</a> on Telegram.</p>
